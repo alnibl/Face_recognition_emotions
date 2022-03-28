@@ -1,3 +1,3 @@
-# face_recognition_-emotions
+# face_recognition_emotions
 
 pip install deepface
